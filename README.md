@@ -1,4 +1,14 @@
-# Qwik City App ⚡️
+<p align="center">
+    <img src="./docs/img/favicon.svg" alt="Qwik Icon" width="150">
+</p>
+
+<div align="center">
+
+# ⚡️ Qwik City App ⚡️
+
+[![Qwik](https://img.shields.io/badge/qwik-1.9.1-purple.svg)](https://qwik.dev/)
+
+</div>
 
 - [Qwik Docs](https://qwik.dev/)
 - [Discord](https://qwik.dev/chat)
